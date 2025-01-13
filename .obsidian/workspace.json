@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "bf27136a516a096a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32701536cae06a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2d124abda7c58d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e235abcb3e4b7b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98434d01551e362b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe670fe6edb658a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dd2026da0351b26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#dateiq",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a24f5c824ffdad55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5165216a570e57d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aa9a9b1144140ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac3b17a8b6eda411",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e88b8f69557b6df7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "162a6182f91096a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d2067d4548d21100",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe670fe6edb658a8",
+  "lastOpenFiles": [
+    "Main/soebf.md",
+    "Main/obs.md",
+    "Main/dateiq.md",
+    "Main/testing.md",
+    "Template/Template.md",
+    "Main/Untitled 1.md",
+    "Main/Untitled.md",
+    "Untitled.md",
+    "Reference Notes",
+    "Template",
+    "Main",
+    "Assets",
+    "Welcome.md"
+  ]
+}
