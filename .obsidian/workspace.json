@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/test.md",
+                "file": "Main/soief22222.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "soief22222"
             }
           }
         ]
@@ -161,6 +161,8 @@
   "active": "76a0c734f1e334a6",
   "lastOpenFiles": [
     "Main/test.md",
+    "Main/soief22222.md",
+    "Main/test2.md",
     "Main/soebf.md",
     "Main/obs.md",
     "Main/dateiq.md",
