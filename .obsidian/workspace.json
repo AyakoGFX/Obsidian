@@ -35,8 +35,7 @@
               "title": "1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe670fe6edb658a8",
+  "active": "76a0c734f1e334a6",
   "lastOpenFiles": [
-    "2. Reference Notes/vods.md",
     "NotePad/1.md",
+    "2. Reference Notes/vods.md",
     "NotePad",
     "Main/testing form mobil pl phone.md",
     "Movie to watch.md",
