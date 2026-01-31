@@ -5,6 +5,25 @@ https://www.reddit.com/r/stalker/comments/1n6eoz0/need_advice_how_to_make_gamma_
 
 https://www.reddit.com/r/stalker/comments/1dis373/my_stalker_gamma_settings_for_nonhardcore/
 
+# github
+https://github.com/Grokitach/Stalker_GAMMA.git
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+31-01-2026  3:27 PM
+Tags:  #gamma #stalker
+Reference:

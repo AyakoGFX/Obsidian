@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Main/After Effect/web tools.md",
+                "file": "1. Main/clg/p of marcating.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web tools"
+              "title": "p of marcating"
             }
           }
         ]
@@ -159,32 +159,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "26ff3414020dc204",
   "lastOpenFiles": [
-    "1. Main/After Effect/Topaz Video AI.md",
-    "1. Main/After Effect/web tools.md",
-    "1. Main/After Effect/after effects.md",
-    "1. Main/After Effect/keyboard shortcuts.md",
-    "1. Main/After Effect/plugins.md",
-    "1. Main/After Effect/scenepacks.md",
-    "1. Main/GenP.md",
-    "Untitled.base",
-    "Untitled 1.base",
+    "1. Main/After Effect/(Satvrn) more adobe free stuff + plugins.md",
+    "Assets/image-1.webp",
+    "Assets/image.webp",
     "1. Main/p/Untitled.md",
     "1. Main/Stalker/Gamma.md",
+    "Untitled.canvas",
+    "1. Main/After Effect/after effects.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Assets/Pasted image 20260131144435.png",
+    "Template/Template.md",
+    "2. Reference Notes/vods.md",
+    "Assets/Pasted image 20260131144624.png",
+    "Assets",
+    "1. Main/After Effect/plugins.md",
+    "1. Main/After Effect/keyboard shortcuts.md",
+    "1. Main/After Effect/scenepacks.md",
+    "1. Main/After Effect/Topaz Video AI.md",
+    "1. Main/After Effect/web tools.md",
+    "1. Main/GenP.md",
     "1. Main/p",
     "1. Main/Stalker",
     "1. Main/clg/p of marcating.md",
     "1. Main/clg",
-    "4. Template/Template.md",
     "1. Main/emacaa.md",
-    "Template/Template.md",
     "SysAdmin/Untitled.md",
     "Movie to watch.md",
-    "2. Reference Notes/vods.md",
     "3. Assets/Freelancer_Full_Tracker.xlsx",
     "2. Reference Notes/Freelancer_Full_Tracker.xlsx",
     "After Effect/Asad.md",
@@ -192,13 +199,10 @@
     "NotePad/2.md",
     "SysAdmin",
     "2",
-    "NotePad",
     "Main/testing form mobil pl phone.md",
     "1. Main/Manipulating woman/Chapter 2.md",
     "1. Main/Manipulating woman/Chapter 1.md",
     "Main/test2.md",
-    "Main/test.md",
-    "Main/soief22222.md",
-    "Main/soebf.md"
+    "Main/test.md"
   ]
 }
