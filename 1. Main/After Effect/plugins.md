@@ -2,8 +2,9 @@
 - https://www.youtube.com/@Mlenily
 - https://drive.google.com/drive/folders/1iYeFYb3m9OIf8jGvqUoBBzu2Ajhd2hq3
 ### adobe software + plugins 
-- https://discord.gg/zczVXNQtAn
-
+-  https://satvrn.li/windows#adobe-plugins  
+	- [[(Satvrn) more adobe free stuff + plugins]]
+- https://discord.gg/zczVXNQtAn 
 
 
 - how to install plugins video

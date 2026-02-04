@@ -1,5 +1,7 @@
 # Website
 https://satvrn.li/windows
+file password downloaded form tis website is : *star*
+
 ![[image.webp|377x192]]
 # Discord
 https://discord.gg/satvrn
