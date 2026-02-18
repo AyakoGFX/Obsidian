@@ -6,6 +6,9 @@
 	- [[(Satvrn) more adobe free stuff + plugins]]
 - https://discord.gg/zczVXNQtAn 
 
+# free flow alt
+- https://davideboscolo.com/product/kease-extension-for-after-effects/
+
 
 - how to install plugins video
 		https://youtu.be/SfreRYoi2P0?si=3GvseiM24zecseBY
