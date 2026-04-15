@@ -1,0 +1,1 @@
+https://cdn.arihantbooks.com/qrcodemanagement/uploads/0_Current-Affairs11192025051153.pdf
