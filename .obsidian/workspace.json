@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "current affairs"
             }
+          },
+          {
+            "id": "ea2c5bd49714ada5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Main/astrology/basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "basics"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c5165216a570e57d",
@@ -203,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6586b2a2bc161db",
+  "active": "ea2c5bd49714ada5",
   "lastOpenFiles": [
+    "1. Main/astrology/basics.md",
+    "1. Main/astrology",
     "1. Main/vizrt/vizrt.md",
     "1. Main/ssc gd/current affairs.md",
     "1. Main/ssc gd",
@@ -263,8 +279,6 @@
     "clip/tools.md",
     "Clippings",
     "clip/clipping.md",
-    "1. Main/After Effect/web tools.md",
-    "clip",
-    "yt"
+    "clip"
   ]
 }
