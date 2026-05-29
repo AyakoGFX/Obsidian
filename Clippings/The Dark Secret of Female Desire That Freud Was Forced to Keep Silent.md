@@ -9,7 +9,7 @@ description: "Enjoy the videos and music you love, upload original content, and 
 tags:
   - "clippings"
 ---
-![](https://www.youtube.com/watch?v=nLQDoHxRvOs)  
+v![](https://www.youtube.com/watch?v=nLQDoHxRvOs)  
 
 What if everything you’ve been told about love and attraction… was a lie?  
 In this video, we reveal the dark psychological theory Freud tried to erase —  
