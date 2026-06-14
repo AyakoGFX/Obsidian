@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Main/vadic/astrology for beginners - b. v. raman.md",
+                "file": "1. Main/ubuntu server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "astrology for beginners - b. v. raman"
+              "title": "ubuntu server"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"1. Main/vadic/\" ",
+                "query": "  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,23 +179,26 @@
   },
   "active": "f32aeff0ae3b3fee",
   "lastOpenFiles": [
-    "1. Main/vadic/referance.md",
+    "1. Main/vadic/software.md",
+    "1. Main/How to Move Taskbar Windows 11 to Any Position.md",
+    "1. Main/ubuntu server.md",
+    "Assets/image-27.webp",
     "1. Main/vadic/astrology for beginners - b. v. raman.md",
+    "1. Main/vadic/books.md",
+    "1. Main/vadic/kishore info.md",
+    "1. Main/vadic/referance.md",
+    "1. Main/vadic/Saravali+-+R+Santhanam+-+Vol-2.pdf",
+    "1. Main/vadic/Saravali+-+R+Santhanam+-+Vol-1.pdf",
+    "1. Main/vadic/Robert_Svoboda_-_Light_on_life_An_Introduction_to_the_Astrology_of_India.pdf",
     "Assets/image-65.webp",
     "Assets/image-64.webp",
     "Assets/image-63.webp",
     "Assets/image-62.webp",
     "Assets/image-61.webp",
     "Assets/image-60.webp",
-    "1. Main/vadic/software.md",
     "Assets/image-59.webp",
     "Assets/image-58.webp",
     "Assets/image-53.webp",
-    "Assets/image-57.webp",
-    "1. Main/vadic/Saravali+-+R+Santhanam+-+Vol-1.pdf",
-    "1. Main/vadic/kishore info.md",
-    "1. Main/vadic/books.md",
-    "1. Main/vadic/Saravali+-+R+Santhanam+-+Vol-2.pdf",
     "Clippings/The Dark Secret of Female Desire That Freud Was Forced to Keep Silent.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -218,12 +221,10 @@
     "1. Main/Manipulating woman/Chapter 1.md",
     "1. Main/games/BAR/Bar.md",
     "Template/Template.md",
-    "yt/Obsidian Base What is it and How to use it.md",
     "1. Main/astrology",
     "1. Main/ssc gd",
     "1. Main/vizrt",
     "clip/Untitled.canvas",
-    "base.base",
-    "1. Main/After Effect/AE"
+    "base.base"
   ]
 }
